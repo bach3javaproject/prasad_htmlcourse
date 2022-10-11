@@ -1,0 +1,2 @@
+lscommand
+The ls is the list command in Linux. It will show the full list or content of your directory. Just type ls and press the enter key. The whole content will be shown.
