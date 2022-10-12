@@ -1,0 +1,5 @@
+Linux set command is used to set and unset certain flags or settings within the shell environment. These flags and settings determine the behavior of a defined script and help in executing the tasks without facing any issue. The values of shell attributes and parameters can be changed or displayed by using the set command.
+
+Syntax:
+
+set [options]  
